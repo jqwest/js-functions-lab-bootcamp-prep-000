@@ -16,5 +16,5 @@ return `${'Happy Independence Day'}, ${'you!'}`
 }
 
 function holidayCountdown(holiday, days) {
-return `${"Mother's Day"} ${"It's 20 days until Mother's Day!"}`
+return `${"It's 20 days until Mother's Day!"}`
 }
